@@ -11,3 +11,16 @@ This code is part of a discrete mathematics project focused on lattice-based cry
 1. Compile the code using any Java IDE or from the terminal:
    ```bash
    javac BabaiApproximation.java
+2. Run the program:
+   java BabaiApproximation
+3. Provide the required inputs for the lattice basis and target vector.
+   Example inputs:
+   Enter the number of rows (m) and columns (n) for lattice basis (separated by space): 2 2
+   Enter the lattice basis rows:
+   1 0
+   0 1
+   Enter the target vector:
+   2.7 3.8
+   Example output:
+   Closest Lattice Vector: 3.00 4.00
+
